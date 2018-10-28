@@ -6,6 +6,9 @@ return 'Happy holidays!'
 function happyHolidaysTo(string){
   var name = string
   return 'Happy holidays, ${name}!'
+  if(name === 'you'){
+    return 'Happy holidays, you!'
+  }
 }
 
 function happyHolidayTo(string, string){
