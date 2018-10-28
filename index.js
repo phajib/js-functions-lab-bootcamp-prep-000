@@ -8,7 +8,7 @@ function happyHolidaysTo(string){
   return 'Happy holidays, ${name}!'
   happyHolidaysTo(you)
   if (happyholidays(you))=== 'you'){
-  return 'Happy holidays, you!'  
+  return 'Happy holidays, you!'
   }
 }
 
