@@ -7,7 +7,7 @@ function happyHolidaysTo(string){
   var name = string
   return 'Happy holidays, ${name}!'
   happyHolidaysTo(you)
-  if (happyholidays(you))=== 'you'){
+  if (happyHolidaysTo(you))=== 'you'){
   return 'Happy holidays, you!'
   }
 }
